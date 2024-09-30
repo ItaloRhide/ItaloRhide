@@ -1,6 +1,6 @@
 ## ✌️ Hi hi!
 ### 💻 Just trying to join in the dev's world.
-### 🎮 Gamer and digital drawner.
+### 🎮 Gamer and digital drawer.
 ### 📚 Studying Python, C, JavaScript, HTML and CSS.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhide_italo/)
