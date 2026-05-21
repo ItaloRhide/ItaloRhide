@@ -1,3 +1,4 @@
+
 # Bom dia, boa tarde, boa noite!
 
 Sou estudante de Tecnologia da Informação e desenvolvedor em formação, com foco em **desenvolvimento backend**, **aplicações web**, **mobile** e **análise de dados**.  
@@ -46,43 +47,85 @@ Atualmente venho construindo projetos acadêmicos e pessoais utilizando tecnolog
 
 ## 📌 Projetos em destaque
 
+### 📚 The Dark Library
+Plataforma web full stack voltada para escrita, leitura e organização de livros, com uma proposta visual imersiva em tema escuro e experiência focada em autores.
+
+**Principais pontos:**
+- Aplicação full stack com frontend e backend separados
+- Interface temática com React, Tailwind CSS e Shadcn UI
+- Backend com Node.js, Express e PostgreSQL
+- Gerenciamento de livros, capítulos e capas
+- Uso de TanStack Router/Start e TanStack Query
+- Validação com Zod e upload de arquivos com Multer
+
+**Tecnologias:** TypeScript, React, Vite, Node.js, Express, PostgreSQL, Tailwind CSS, Shadcn UI, TanStack, Zod
+
+🔗 [Ver repositório](https://github.com/ItaloRhide/The_Dark_Library)
+
+---
+
 ### 🎮 GameRank Mobile
-Aplicativo mobile desenvolvido com **React Native**, **Expo** e **JavaScript**, com consumo da **RAWG API** para listagem, busca e filtragem de jogos.  
-O projeto também possui um sistema simples de recomendação baseado em cálculo de score.
+Aplicativo mobile desenvolvido com React Native e Expo para listagem, busca e ranqueamento de jogos utilizando dados da RAWG API.
 
 **Principais pontos:**
 - Consumo de API externa
-- Busca e filtro por gênero
-- Componentização em React Native
-- Ranking próprio com base em nota e popularidade
+- Busca de jogos por nome
+- Filtro por gênero
+- Exibição de imagem, nota e informações dos jogos
+- Sistema próprio de recomendação baseado em cálculo de score
+- Organização por componentes e separação entre interface e serviço de API
+
+**Tecnologias:** JavaScript, React Native, Expo, Axios, RAWG API
 
 🔗 [Ver repositório](https://github.com/ItaloRhide/gamerank_mobile)
 
 ---
 
 ### ✅ Task To-Do App
-Aplicação acadêmica para gerenciamento de tarefas, categorias e fornecedores, desenvolvida com **Java**, **Spring Boot**, **Spring Data JPA**, **Angular** e **PostgreSQL**.
+Aplicação acadêmica para gerenciamento de tarefas, categorias e fornecedores, com backend em Java Spring Boot e frontend em Angular.
 
 **Principais pontos:**
-- API REST
-- CRUD de tarefas, categorias e fornecedores
-- Arquitetura em camadas
-- Persistência com JPA
-- Integração com frontend Angular
+- API REST para operações CRUD
+- Gerenciamento de tarefas, categorias e fornecedores
+- Relacionamentos entre entidades
+- Regras de negócio organizadas em Services
+- Persistência com Spring Data JPA
+- Banco de dados PostgreSQL
+- Frontend em Angular
+
+**Tecnologias:** Java 17, Spring Boot, Spring Web, Spring Data JPA, PostgreSQL, Angular, Maven
 
 🔗 [Ver repositório](https://github.com/ItaloRhide/TaskToDo-Web2-UEG)
 
 ---
 
-### 📊 Report Streamlit
-Dashboard e relatório de negócio desenvolvido com **Python** e **Streamlit**, utilizando dados em planilha para visualização e análise.
+### 🧪 Biblioteca
+Projeto em Java voltado para estudo de automação de testes a cada commit, com foco em práticas de validação e integração no fluxo de desenvolvimento.
 
 **Principais pontos:**
-- Visualização de dados
-- Dashboard com Streamlit
-- Uso de Python para análise e apresentação de informações
+- Estudos com Java
+- Prática de automação de testes
+- Validação de código em commits
+- Base útil para evolução em integração contínua e qualidade de software
 
-🔗 [Ver repositório](https://github.com/ItaloRhide/REPORT_STREAMLIT)
+**Tecnologias:** Java
+
+🔗 [Ver repositório](https://github.com/ItaloRhide/biblioteca)
+
+---
+
+### 🛠️ Special Character Remover
+Aplicação simples em Python com Tkinter para tratamento de entradas e remoção de caracteres especiais pré-definidos.
+
+**Principais pontos:**
+- Interface gráfica com Tkinter
+- Manipulação e tratamento de strings
+- Projeto utilitário simples, mas prático
+- Boa demonstração de automação com Python
+
+**Tecnologias:** Python, Tkinter
+
+🔗 [Ver repositório](https://github.com/ItaloRhide/ESPECIAL_CHARACTER_REMOVER)
 
 ---
 
