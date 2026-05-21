@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./BANNER.png" alt="Banner do perfil de Ítalo Rhide" width="100%" />
+</div>
 
 # Bom dia, boa tarde, boa noite!
 
